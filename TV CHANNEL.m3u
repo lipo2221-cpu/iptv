@@ -1,0 +1,136 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10563.jpg?72566" group-title="IT| PLATINUM TV UHD/4K",IT: CANALE 5 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284572
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10563.jpg?72566" group-title="IT| PLATINUM TV UHD/4K",IT: CANALE 5 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284573
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 1 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13283.png?94577" group-title="IT| PLATINUM TV UHD/4K",IT: ITALIA 1 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284574
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13283.png?94577" group-title="IT| PLATINUM TV UHD/4K",IT: ITALIA 1 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284575
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="IT: REALTIME UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12358.jpg?ver=33712" group-title="IT| PLATINUM TV UHD/4K",IT: REALTIME UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284613
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="IT: REALTIME 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12358.jpg?ver=33712" group-title="IT| PLATINUM TV UHD/4K",IT: REALTIME 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284614
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="IT: CIELO UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13288.png?72723" group-title="IT| PLATINUM TV UHD/4K",IT: CIELO UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284615
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="IT: CIELO 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13288.png?72723" group-title="IT| PLATINUM TV UHD/4K",IT: CIELO 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284616
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="IT: DMAX UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6563.jpg?44506" group-title="IT| PLATINUM TV UHD/4K",IT: DMAX UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284617
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="IT: DMAX 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6563.jpg?44506" group-title="IT| PLATINUM TV UHD/4K",IT: DMAX 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284618
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT: TV8 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7841.jpg?63798" group-title="IT| PLATINUM TV UHD/4K",IT: TV8 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284582
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="IT: TV 8 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7841.jpg?63798" group-title="IT| GOLD TV HEVC",IT: TV 8 HEVC
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284784
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="SE: TV8 ᴴᴰ ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/14006.jpg?16421" group-title="SE| SWEDEN ᴴᴰ/ᴿᴬᵂ",SE: TV8 ᴴᴰ ◉
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/8183
+#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="IT: RAI 1 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11960.png?42256" group-title="IT| PLATINUM TV UHD/4K",IT: RAI 1 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284564
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="IT: NOVE UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12345.jpg?70158" group-title="IT| PLATINUM TV UHD/4K",IT: NOVE UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284583
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY DISCOVERY  UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/617.png?71983" group-title="IT| PLATINUM TV UHD/4K",IT: SKY DISCOVERY  UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284731
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY DISCOVERY  4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/617.png?71983" group-title="IT| PLATINUM TV UHD/4K",IT: SKY DISCOVERY  4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284732
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK: NAT GEO WILD HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6658.png?24469" group-title="UK| DOCUMENTARY ʰᵉᵛᶜ",UK: NAT GEO WILD HEVC HD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/717716
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK: NATIONAL GEO HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/60.jpg?4690" group-title="UK| DOCUMENTARY ʰᵉᵛᶜ",UK: NATIONAL GEO HEVC HD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/717715
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 2 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: HRT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460685
+#EXTINF:-1 tvg-id="" tvg-name="HR: Hrt 1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3809.png?97096" group-title="HR| CROATIA ᴴᴰ/ᴿᴬᵂ",HR: Hrt 1
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/2429
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL 2 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: RTL 2 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460680
+#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA TV ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: NOVA TV ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460673
+#EXTINF:-1 tvg-id="" tvg-name="HR: Rtl Televizija" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3772.jpg?67713" group-title="HR| CROATIA ᴴᴰ/ᴿᴬᵂ",HR: Rtl Televizija
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/2400
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?94258" group-title="IT| PLATINUM TV UHD/4K",IT: SKY SPORT CALCIO UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284704
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?94258" group-title="IT| PLATINUM TV UHD/4K",IT: SKY SPORT CALCIO 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284705
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 1 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 1 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284706
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 1 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284707
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 2 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 2 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284708
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 2 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284709
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 3 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 3 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284710
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 3 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284711
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 4 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 4 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284712
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 5 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 5 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284713
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 6 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 6 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284714
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 5 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 5 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284715
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 6 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 6 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284716
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 7 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 7 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284717
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CALCIO 7 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY CALCIO 7 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284718
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY MILAN TV UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?89784" group-title="IT| PLATINUM TV UHD/4K",IT: SKY MILAN TV UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284719
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT: SKY DAZN 1 UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3128.jpg?12694" group-title="IT| PLATINUM TV UHD/4K",IT: SKY DAZN 1 UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284723
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT: SKY DAZN 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3128.jpg?12694" group-title="IT| PLATINUM TV UHD/4K",IT: SKY DAZN 1 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284724
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460668
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460667
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460666
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460665
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460664
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460663
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 7 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 7 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460662
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 8 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 8 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460661
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 9 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="HR| CROATIA ⱽᴵᴾ ᴿᴬᵂ",HR: ARENA SPORT 9 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460660
+#EXTINF:-1 tvg-id="Arenasport10.hr" tvg-name="SAT: ARENA SPORTS 10 HR ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11121.png?54991" group-title="AL| SPORT PREMIUM ᴿᴬᵂ",SAT: ARENA SPORTS 10 HR ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1221339
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="SR| SERBIA ⱽᴵᴾ ᴿᴬᵂ",SR: ARENA PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460854
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="SR| SERBIA ⱽᴵᴾ ᴿᴬᵂ",SR: ARENA PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460853
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ" tvg-logo="" group-title="SR| SERBIA ⱽᴵᴾ ᴿᴬᵂ",SR: ARENA PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1460852
+#EXTINF:-1 tvg-id="" tvg-name="EN - Sinners  (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" group-title="EN - NEW RELEASE",EN - Sinners  (2025)
+http://cf.cdn-amz1.me:80/movie/9cdd69e1062f/2bf44f4668/1438746.mkv
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="NOW: SKY UNO ᴴᴰ ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12375.jpg?45398" group-title="IT| NOW DIVERTIMENTO ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY UNO ᴴᴰ ◉
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1158840
+#EXTINF:-1 tvg-id="" tvg-name="NOW: SKY UNO ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12375.jpg?2732" group-title="IT| NOW DIVERTIMENTO ᴿᴬᵂ ᴳᴼᴸᴰ",NOW: SKY UNO ᴿᴬᵂ
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/1158613
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="IT: SKY UNO UHD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?66287" group-title="IT| PLATINUM TV UHD/4K",IT: SKY UNO UHD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284654
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="IT: SKY UNO 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?66287" group-title="IT| PLATINUM TV UHD/4K",IT: SKY UNO 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/284655
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="IT: RAI 1 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11960.png?30382" group-title="IT| GENERALE HD/4K",IT: RAI 1 HD ◉
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/285432
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="IT: RAI 1 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11960.png?30382" group-title="IT| GENERALE HD/4K",IT: RAI 1 SD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/285433
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11959.png?31535" group-title="IT| GENERALE HD/4K",IT: RAI 2 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/285434
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11959.png?31535" group-title="IT| GENERALE HD/4K",IT: RAI 2 HD ◉
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/285435
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11959.png?31535" group-title="IT| GENERALE HD/4K",IT: RAI 2 SD
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/285436
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11958.jpg?17127" group-title="IT| GENERALE HD/4K",IT: RAI 3 4K
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/285437
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11958.jpg?17127" group-title="IT| GENERALE HD/4K",IT: RAI 3 HD ◉
+http://cf.cdn-amz1.me:80/9cdd69e1062f/2bf44f4668/285438
+
